@@ -1,0 +1,6 @@
+".\Objects\main.obj",
+".\Objects\delay.obj",
+".\Objects\display_SHU_CA.obj",
+".\Objects\display_LED.obj" 
+TO ".\Objects\вш╨о" 
+PRINT(".\Listings\вш╨о.m51")
